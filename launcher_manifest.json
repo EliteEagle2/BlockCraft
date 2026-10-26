@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "url": "launcher-1.0.0/launcher-1.0.0.json",
+  "sha256": "6cb6f4be077d396150dd62a72c32448c240ff50baa08840ab098a961b0ab39e0",
+  "packages": {
+    "windows-x64": {
+      "url": "https://github.com/EliteEagle2/BlockCraft/releases/download/launcher-1.0.0/blockcraft-launcher-1.0.0-windows-x64.zip",
+      "sha256": "84f202c074db6205073320f4fd5618460606448f1923a049c7698b0fffcffb99",
+      "size": 38582558
+    }
+  }
+}
