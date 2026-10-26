@@ -1,8 +1,16 @@
 {
   "latest": {
-    "release": "0.1.0"
+    "release": "0.1.0",
+    "snapshot": "26w43a"
   },
   "versions": [
+    {
+      "id": "26w43a",
+      "type": "snapshot",
+      "releaseTime": "2026-10-26T02:00:56Z",
+      "url": "26w43a/26w43a.json",
+      "sha256": "51a9a68b07b4ddea3157d29e3aaa067fea0709960ec813f31844ba2134b05579"
+    },
     {
       "id": "0.1.0",
       "type": "release",

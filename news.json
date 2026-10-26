@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "id": "snapshot-26w43a",
+      "title": "Snapshot 26w43a",
+      "date": "2026-10-25",
+      "tag": "Snapshot",
+      "body": "The first snapshot of the Survival Update (0.2.0). Tools now have tiers and durability (wood 59, stone 131, iron 250, gold 32, diamond 1561), blocks need the right tool to drop, and ores drop raw iron, raw gold and raw copper. New ores: copper, lapis, redstone and emerald. Hoes, buckets and all armor pieces exist (armor and buckets start working in later snapshots). Menus no longer pause the world. Worlds now remember the version they were last played in and warn before opening in an older one. Snapshots can damage your world: the first time a 0.1.0 world opens it is backed up automatically, but do not open snapshot worlds in 0.1.0.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "welcome",
       "title": "Welcome to Blockcraft",
       "date": "2026-10-25",
