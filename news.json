@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "id": "launcher-1.1.0",
+      "title": "Launcher 1.1.0: a new look",
+      "date": "2026-10-26",
+      "tag": "Launcher",
+      "body": "The Blockcraft Launcher now matches the game's new Blockcraft theme. Every screen and dialog uses square pixel panels with crisp borders, beveled green, slate and red buttons, a big pixel PLAY button and the Pixelify Sans and Silkscreen pixel fonts. The header has the new BLOCKCRAFT wordmark, the sidebar has pixel icons, and the Play page shows the selected installation over the artwork with the latest news beside it. The light theme is restyled to match. Everything works as before; the launcher updates itself to 1.1.0 the next time it starts online.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "snapshot-26w43a",
       "title": "Snapshot 26w43a",
       "date": "2026-10-25",

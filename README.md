@@ -30,5 +30,5 @@ is not public.
 
 Blockcraft and its launcher include: an OpenJDK Java runtime and OpenJFX (GPLv2 with the
 Classpath Exception), LWJGL (BSD 3-Clause), JOML (MIT), Gson and Error Prone annotations
-(Apache 2.0), and the Inter font (SIL Open Font License 1.1). Their licenses are in the
+(Apache 2.0), and the Pixelify Sans and Silkscreen fonts (SIL Open Font License 1.1). Their licenses are in the
 installed `runtime/legal` folder and inside the respective jars. All game art is original.
