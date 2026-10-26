@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "id": "welcome",
+      "title": "Welcome to Blockcraft",
+      "date": "2026-10-25",
+      "tag": "Announcement",
+      "body": "Blockcraft is an original voxel sandbox. Build, explore and survive. This news feed is read by the Blockcraft Launcher from news.json next to the version manifest.",
+      "image": null,
+      "url": null
+    }
+  ]
+}

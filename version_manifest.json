@@ -1,0 +1,14 @@
+{
+  "latest": {
+    "release": "0.1.0"
+  },
+  "versions": [
+    {
+      "id": "0.1.0",
+      "type": "release",
+      "releaseTime": "2026-10-26T00:25:10Z",
+      "url": "0.1.0/0.1.0.json",
+      "sha256": "a5641d1ac35cee6f632a1fabf570f9c51d60774d6f8966958b3d0a2f10fe5e04"
+    }
+  ]
+}
