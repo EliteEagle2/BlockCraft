@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "0.2.0",
+      "version": "0.2.0",
+      "title": "Blockcraft 0.2.0: the Survival Update",
+      "subtitle": "Tools, ores, hunger, armor, furnaces, water and lava.",
+      "bullets": [
+        "Tool tiers, durability, new ores, hunger, armor and experience",
+        "Furnaces and smelting, with experience when you take the result",
+        "Flowing water and lava, buckets, swimming and falling sand"
+      ],
+      "date": "2026-10-27",
+      "tag": "Release",
+      "body": "The Survival Update is here. Tools now have tiers and durability, and blocks need the right tool to drop. New ores: copper, lapis, redstone and emerald. Hunger, damage, air and death work at Java Edition's numbers, with a death screen and respawning at your bed. Armor protects you, wears down and shows on your player. Build a furnace to smelt ores and food, and collect experience when you take the result. Water and lava flow, mix into cobblestone, stone and obsidian, and can be carried in buckets. You can swim and sprint-swim, sand and gravel fall, and new particles and HUD bars round it out. The Game Menu pauses singleplayer, while inventories and containers keep the world running. Worlds from 0.1.0 open in 0.2.0 and are backed up automatically the first time. Known issue: the new sounds are placeholders and will be replaced in a later update.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "launcher-1.1.0",
       "title": "Launcher 1.1.0: a new look",
       "date": "2026-10-26",
