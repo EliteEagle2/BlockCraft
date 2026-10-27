@@ -1,6 +1,38 @@
 {
   "entries": [
     {
+      "id": "0.2.1",
+      "version": "0.2.1",
+      "title": "Blockcraft: Skywright 0.2.1, the UI Refresh",
+      "subtitle": "A brand-new look for every menu, inspired by the Shattered Sky.",
+      "bullets": [
+        "Shattered Sky UI theme, with Classic still available",
+        "New title screen, world list, options, inventory and HUD",
+        "Pixel fonts, smoother menus and Reduce UI Motion"
+      ],
+      "date": "2026-10-27",
+      "tag": "Release",
+      "body": "Blockcraft is now Blockcraft: Skywright, and every screen has a new look. The Shattered Sky theme gives the title screen, world list, Create New World, options, pause menu, loading screen, inventory, containers, chat and HUD dark night-sky panels, teal Skyshard accents and crisp pixel fonts. The world list can sort, duplicate worlds and open their folders, the title screen has a Continue button for your last world, the loading screen shows tips, and Options has a search bar and categories. Prefer the old look? Switch to the Classic theme in Options: it keeps Java Edition's style, works with Minecraft resource packs, and has every new feature too. Your 0.2.0 worlds open unchanged.",
+      "image": null,
+      "url": null
+    },
+    {
+      "id": "launcher-1.2.0",
+      "version": "launcher 1.2.0",
+      "title": "Launcher 1.2.0: Blockcraft: Skywright",
+      "subtitle": "A new home screen, a Skins page and a new icon.",
+      "bullets": [
+        "New Play page with patch notes and recent news",
+        "Skins page; Logs moved into Settings",
+        "Two looks: Shattered Sky or Classic (1.1 look)"
+      ],
+      "date": "2026-10-27",
+      "tag": "Launcher",
+      "body": "The launcher is renamed Blockcraft: Skywright and gets the new Shattered Sky look: a sidebar with Play, Installations, Skins, Patch Notes and Settings, a Play page with the latest patch notes and recent news, and a centered PLAY button. Prefer the old design? Settings › Look › Classic (1.1 look) brings it back, with every new page included, and both looks have dark and light modes. The app and installers have a new teal Skywright icon. The launcher updates itself to 1.2.0 the next time it starts online.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "0.2.0",
       "version": "0.2.0",
       "title": "Blockcraft 0.2.0: the Survival Update",
