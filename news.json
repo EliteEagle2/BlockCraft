@@ -17,6 +17,15 @@
       "url": null
     },
     {
+      "id": "launcher-1.2.1",
+      "title": "Launcher 1.2.1: Play page fix",
+      "date": "2026-10-27",
+      "tag": "Launcher",
+      "body": "The Play page now fits smaller launcher windows: the news title and patch notes no longer slide under the sidebar. The launcher updates itself to 1.2.1 the next time it starts online.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "launcher-1.2.0",
       "version": "launcher 1.2.0",
       "title": "Launcher 1.2.0: Blockcraft: Skywright",
