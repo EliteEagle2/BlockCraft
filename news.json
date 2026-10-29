@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "0.2.2",
+      "version": "0.2.2",
+      "title": "Blockcraft: Skywright 0.2.2",
+      "subtitle": "The creative inventory joins the Shattered Sky, plus menu fixes.",
+      "bullets": [
+        "Shattered Sky creative inventory with search and item counts",
+        "Options text wraps instead of cutting off at large GUI scales",
+        "Clearer digits, resource pack tooltips and an orange furnace flame"
+      ],
+      "date": "2026-10-28",
+      "tag": "Release",
+      "body": "The creative inventory now has the Shattered Sky look: a row of icon tabs with Search first, a search bar (search by name, or try #food or @blockcraft), item counts, a slim scrollbar, and a Survival Inventory tab with your armour, your character and a red Destroy slot. Menus read better at large GUI scales: Options labels, theme names and key binds wrap onto a second line instead of being cut off, and hovering a resource pack shows its full name and description. The digits 5 and 7 no longer look like S and L, the Default pack shows the Skywright icon, the lit furnace flame glows orange, and in the Shattered Sky theme the hotbar and status bars step aside while a container is open. Classic is unchanged apart from the fixes, and your 0.2.1 worlds open as they are. Next up: the Home Update (0.3.0), with the Hearth, chests, beds and much more.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "0.2.1",
       "version": "0.2.1",
       "title": "Blockcraft: Skywright 0.2.1, the UI Refresh",

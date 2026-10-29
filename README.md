@@ -26,8 +26,8 @@ time.
 **Blockcraft extras.** Settlements to grow and trade with, roguelike dungeons, new weapons such as
 spears, war hammers and daggers, a stamina and dodge system, seasons and temperature, meteor showers
 and blood moons, a minimap with waypoints, a recipe browser, inventory sorting and a journal that
-records your discoveries. Anything that changes core gameplay can be turned off for a classic-style
-world.
+records your discoveries. Optional features such as seasons, temperature and blood moons can be turned
+off per world.
 
 **Resource packs.** Blocks, items and the Classic menu style work with resource packs made for the
 popular block game, so you can bring your favourite textures.
@@ -41,16 +41,20 @@ Blockcraft is in **Alpha**. It's being built in public updates; each one adds a 
 | 0.1.0 | First Light | The world, building, crafting, menus and resource packs |
 | 0.2.0 | Survival Update | Tool tiers, mining, hunger, damage, XP, armor, water and lava, swimming, buckets, the furnace |
 | 0.2.1 | UI Refresh | A new look for every menu, inventory and the HUD |
-| 0.3.0 | Home Update | Chests, beds, stairs, doors and more building blocks, recipe browser |
-| 0.4.0 | World Update | New biomes, mountains, rebuilt caves, weather, the first Anchors |
-| 0.5.0 | Creatures Update | Animals, monsters, combat, bows and shields, new weapons, the first boss |
+| 0.3.0 | Home Update | A Hearth that makes your home your own, chests, beds, stairs, doors and more building blocks, meals, a recipe browser and inventory sorting |
+| 0.4.0 | World Update | New biomes, mountains, rebuilt caves, wind and sky-storms, a minimap, the first Anchors |
+| 0.5.0 | Creatures Update | Brand-new animals and monsters, combat, bows and shields, new weapons, the first boss |
 | 0.6.0 | Harvest Update | Farming, breeding, fishing, seasons and temperature |
-| 0.7.0 | Sound Update | Music and sound, advancements, world events, the journal, Story and Freeroam |
-| 0.8.0 | Magic Update | Enchanting, anvils and brewing |
-| 0.9.0 | Redstone Update | Redstone and the Anchors' puzzle mechanisms |
+| 0.7.0 | Sound Update | Music and sound, the Chronicle (your adventure written in your Journal), world events, the Journal, Story and Freeroam |
+| 0.8.0 | Magic Update | Glyph Inscription (carve ancient glyphs into your gear) and Infusions (brew draughts from rare ingredients) |
+| 0.9.0 | Machines Update | Resonance circuits to build your own machines, and the Anchors' puzzles |
 | 0.10.0 | Adventure Update | Settlements, dungeons and all six Anchor trials |
 | **1.0.0** | **Full release** | The Aether, the final boss and the ending of The Shattered Sky |
 | 1.1.0 | Together Update | Multiplayer, dedicated servers and join codes |
+| 1.2.0 | Expansion Update | The groundwork for new stories |
+
+After that, new adventures arrive as **Sagas** (a whole new story) and **Chapters** (more of a Saga
+you're playing), and smaller updates bring fixes and polish for everyone.
 
 Plans can change as the game grows. Snapshots (test versions of the next update) can be turned on in
 the launcher under **Settings > Show snapshots**; they may be unstable, so back up your worlds first.
