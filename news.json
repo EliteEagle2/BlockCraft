@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "26w44a",
+      "version": "26w44a",
+      "title": "Snapshot 26w44a: the Home Update begins",
+      "subtitle": "Try the Hearth, chests, beds, doors and more before 0.3.0. Back up your worlds first.",
+      "bullets": [
+        "The Hearth: claim a home, earn Comfort, get Rested, buy upgrades",
+        "Chests, beds, doors, trapdoors, ladders, fences, walls, panes, slabs, stairs and signs",
+        "Inventory sorting, quick stack (G) and richer food and tool tooltips"
+      ],
+      "date": "2026-10-29",
+      "tag": "Snapshot",
+      "body": "The first test build of the Home Update. Place a Hearth to make a home. Right-click it to see your Comfort, which comes from walls and a roof, light, a bed, storage and decoration. Comfort gives you Rested while you're at home: faster healing and bonus XP. Spend XP levels on three Hearth upgrades: Wider Claim, Whole Home and Warm Glow. New building blocks arrive too: chests that join into double chests, beds in 16 colours (creative only for now: wool arrives in a later update) that skip the night and work as a backup respawn point, doors, trapdoors and ladders, fences, gates, walls, glass panes, iron bars, slabs, stairs and signs (writing on them comes in the next snapshot). Sort a chest with a middle-click on its empty space, press G to quick-stack your items into nearby chests that already hold them, and hover food or tools to see more in their tooltips. You'll also find Skywright tablets and the Anchor blocks in the creative Skywright tab, and status effect icons in the Shattered Sky theme.\n\nWhat to test: build a small house around a Hearth and watch your Comfort climb as you add a roof, light, a bed, a chest and decoration. Stay home a while to get Rested, sleep in a bed at night (beds are in creative for now), and try buying an upgrade. Place chests side by side, sort them, and quick-stack into them. Try every new block, especially doors, gates, slabs and stairs.\n\nSnapshots can be unstable, so back up your worlds before trying one. The recipe browser, sign editor, sleeping screen and chest peek arrive in the next snapshots.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "0.2.2",
       "version": "0.2.2",
       "title": "Blockcraft: Skywright 0.2.2",

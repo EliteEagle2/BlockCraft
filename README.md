@@ -34,13 +34,16 @@ popular block game, so you can bring your favourite textures.
 
 ## Where it is now
 
-Blockcraft is in **Alpha**. It's being built in public updates; each one adds a piece of the plan:
+Blockcraft is in **Alpha**. The latest version is **0.2.2**, and the **Home Update (0.3.0)** is in progress: its
+snapshots let you try the Hearth, chests, beds, doors and more before the release. It's being built in public
+updates; each one adds a piece of the plan:
 
 | Version | Update | What it adds |
 |---|---|---|
 | 0.1.0 | First Light | The world, building, crafting, menus and resource packs |
 | 0.2.0 | Survival Update | Tool tiers, mining, hunger, damage, XP, armor, water and lava, swimming, buckets, the furnace |
 | 0.2.1 | UI Refresh | A new look for every menu, inventory and the HUD |
+| 0.2.2 | UI Refresh patch | The creative inventory in the new look, clearer menus at large GUI scales, resource pack tooltips |
 | 0.3.0 | Home Update | A Hearth that makes your home your own, chests, beds, stairs, doors and more building blocks, meals, a recipe browser and inventory sorting |
 | 0.4.0 | World Update | New biomes, mountains, rebuilt caves, wind and sky-storms, a minimap, the first Anchors |
 | 0.5.0 | Creatures Update | Brand-new animals and monsters, combat, bows and shields, new weapons, the first boss |
