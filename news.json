@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "0.3.0",
+      "version": "0.3.0",
+      "title": "Blockcraft: Skywright 0.3.0, the Home Update",
+      "subtitle": "Make a home with the Hearth, then build it with chests, beds, doors, stairs and more.",
+      "bullets": [
+        "The Hearth: claim a home, earn Comfort, get Rested and buy upgrades",
+        "Chests, beds, signs, doors, trapdoors, ladders, fences, walls, panes, slabs and stairs",
+        "A recipe browser, inventory sorting, quick stack, chest peek and richer tooltips"
+      ],
+      "date": "2026-10-30",
+      "tag": "Release",
+      "body": "The Home Update is here. Place a Hearth and right-click it to make it your home. You'll find its recipe in the new recipe browser. Its screen shows your Comfort, which comes from walls and a roof, light, a bed, storage and decoration, and Comfort makes you Rested while you're at home: faster healing and bonus XP. Spend XP levels on three Hearth upgrades: Wider Claim, Whole Home and Warm Glow. Your Hearth is also where you respawn.\n\nBuild your home with chests that join into double chests, beds that skip the night and set a backup respawn point, signs you can write on, doors, trapdoors and ladders, fences and gates, walls, glass panes, iron bars, slabs and stairs. Beds are creative-only for now: wool arrives in a later update, and then beds can be crafted in survival.\n\nFind any recipe in the new recipe browser (press R in an inventory or crafting table) and let it fill the grid for you. Sort a chest or your inventory with the Sort button or a middle-click, press G to quick-stack into nearby chests that already hold your items, hold Left Alt to peek into a chest without opening it, and hover food and tools for their stats. Status effects have their own icons, sleeping has its own screen, and short messages now appear above the hotbar. The block outline now follows a block's whole shape.\n\nStory: Skywright tablets, the Anchor stone, Anchor stone bricks, the glyph block and the Anchor door (which no hand can open) are in the creative Skywright tab. Tablets are carved stone you can place and right-click to read the Skywrights' history; break one and it keeps its text. The Hearth's flame is ready to turn teal for each Anchor restored.\n\nWorlds from 0.2.x open in 0.3.0 and are backed up automatically the first time. Don't open a 0.3.0 world in an older version.\n\nNext up: the World Update (0.4.0), with wind, sky-storms, new biomes and rebuilt caves.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "26w44a",
       "version": "26w44a",
       "title": "Snapshot 26w44a: the Home Update begins",
