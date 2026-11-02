@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "26w45a",
+      "version": "26w45a",
+      "title": "26w45a: the World Update",
+      "subtitle": "Test the World Update (0.4.0). Back up your worlds first.",
+      "bullets": [
+        "21 biomes, taller mountains, new caves and deepslate",
+        "Weather, fire, wind, sky-storms and meteor craters",
+        "A minimap, map (M), waypoints (N) and the six Anchors"
+      ],
+      "date": "2026-11-02",
+      "tag": "Snapshot",
+      "body": "What to test: explore a new world and its caves, try /weather skystorm, use the minimap, map (M) and waypoints (N), visit an Anchor (/locate anchor), and open a backed-up old world. Commands need cheats on.\n\nBack up your worlds first. This is a test build, and a world opened here shouldn't be played in 0.3.0 again.\n\nReport bugs: https://github.com/EliteEagle2/BlockCraft/issues/new?template=snapshot-bug.yml",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "0.3.0",
       "version": "0.3.0",
       "title": "Blockcraft: Skywright 0.3.0, the Home Update",

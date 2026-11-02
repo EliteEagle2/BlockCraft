@@ -1,9 +1,16 @@
 {
   "latest": {
     "release": "0.3.0",
-    "snapshot": "26w44a"
+    "snapshot": "26w45a"
   },
   "versions": [
+    {
+      "id": "26w45a",
+      "type": "snapshot",
+      "releaseTime": "2026-11-02T21:05:31Z",
+      "url": "26w45a/26w45a.json",
+      "sha256": "84798003cb538d58e3fc05f19abd6b25aec0b8e300d3e50cc260464fc2a96f18"
+    },
     {
       "id": "0.3.0",
       "type": "release",

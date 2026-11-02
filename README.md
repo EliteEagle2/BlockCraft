@@ -62,6 +62,12 @@ you're playing), and smaller updates bring fixes and polish for everyone.
 Plans can change as the game grows. Snapshots (test versions of the next update) can be turned on in
 the launcher under **Settings > Show snapshots**; they may be unstable, so back up your worlds first.
 
+## Report a snapshot bug
+
+Found a problem in a snapshot? **[Report a snapshot bug](https://github.com/EliteEagle2/BlockCraft/issues/new?template=snapshot-bug.yml)**
+(a GitHub account is needed). Say which snapshot you were playing, what happened, what you expected
+and how to make it happen, and add a screenshot if you have one.
+
 ## Download (Windows)
 
 **[Download BlockcraftSetup.exe](https://github.com/EliteEagle2/BlockCraft/releases/latest/download/BlockcraftSetup.exe)**
@@ -84,8 +90,8 @@ Your worlds, screenshots and settings are kept when you update or uninstall, unl
 
 The release files the launcher installs (one GitHub release per game version, and one per
 launcher version), and the lists it reads to find them: `version_manifest.json` (game versions),
-`launcher_manifest.json` (launcher updates) and `news.json` (the launcher's news). The source code
-is not public.
+`launcher_manifest.json` (launcher updates) and `news.json` (the launcher's news), plus the
+snapshot bug report form. The source code is not public.
 
 ## Third-party software
 

@@ -1,0 +1,51 @@
+# GitHub issue form for the public releases repo (EliteEagle2/BlockCraft). The publish tasks copy
+# it to .github/ISSUE_TEMPLATE/snapshot-bug.yml there (pushReleasesRepo in build.gradle.kts).
+# Link: https://github.com/EliteEagle2/BlockCraft/issues/new?template=snapshot-bug.yml
+name: Snapshot bug
+description: Report a problem in a Blockcraft snapshot (a test version of the next update).
+title: "[Snapshot] "
+labels: ["snapshot"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for testing a snapshot! Please report one problem per issue.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The snapshot you were playing. It is shown on the title screen and in the launcher's version picker.
+      placeholder: 26w45a
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What went wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+      description: What should have happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps
+      description: What were you doing when it happened? List the steps that make it happen again, if you know them.
+      placeholder: |
+        1. Open a new world
+        2. ...
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Optional. Paste or drag a screenshot here (F2 in game saves one to the screenshots folder).
+    validations:
+      required: false
