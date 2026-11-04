@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "26w45b",
+      "version": "26w45b",
+      "title": "26w45b: World Update fixes",
+      "subtitle": "Test the fixes before 0.4.0. Back up your worlds first.",
+      "bullets": [
+        "Smoother motion, wind push, plants that stay out of walls",
+        "New material sounds and crater impact fires",
+        "Minimap, compass and options fixes in both themes"
+      ],
+      "date": "2026-11-04",
+      "tag": "Snapshot",
+      "body": "Also: anti-aliasing and a graphics card line in Options › Video, waypoint markers only show nearby, and cactus has no holes.\n\nWhat to test: walk in strong wind, listen to blocks and doors, and tell us if the game freezes for a moment during sky-storms or in the new biomes.\n\nBack up your worlds first. This is a test build, and a world opened here shouldn't be played in 0.3.0 again.\n\nReport bugs: https://github.com/EliteEagle2/BlockCraft/issues/new?template=snapshot-bug.yml",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "26w45a",
       "version": "26w45a",
       "title": "26w45a: the World Update",
