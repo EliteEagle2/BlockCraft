@@ -34,8 +34,8 @@ popular block game, so you can bring your favourite textures.
 
 ## Where it is now
 
-Blockcraft is in **Alpha**. The latest version is **0.3.0, the Home Update**: make a home with the Hearth, then
-build it with chests, beds, signs, doors, stairs and more. Next up is the **World Update (0.4.0)**. It's being
+Blockcraft is in **Alpha**. The latest version is **0.4.0, the World Update**: new biomes, taller mountains, rebuilt caves, wind and
+sky-storms, a minimap and waypoints, and the six Anchors. Next up is the **Creatures Update (0.5.0)**. It's being
 built in public updates; each one adds a piece of the plan:
 
 | Version | Update | What it adds |
@@ -85,6 +85,24 @@ download.
 
 Your worlds, screenshots and settings are kept when you update or uninstall, unless you tick
 "Also delete my game data" while uninstalling.
+
+## Using your graphics card
+
+Laptops often have two graphics chips: a built-in one and a faster NVIDIA or AMD card. Windows may
+start Blockcraft on the built-in one, which makes it slower. To use the faster card:
+
+1. Open Windows **Settings › System › Display › Graphics**.
+2. Under **Custom options for apps**, choose **Add desktop app** (or **Browse**) and pick the
+   launcher's Java, `javaw.exe` in the `runtime\bin` folder where Blockcraft Launcher is installed:
+   `%LOCALAPPDATA%\Programs\Blockcraft Launcher\runtime\bin\javaw.exe`, or
+   `%LOCALAPPDATA%\Blockcraft Launcher\runtime\bin\javaw.exe` if you used the MSI, or wherever you
+   installed the launcher. You can paste the folder into the file picker's address bar.
+3. Select **javaw.exe** in the list and set it to **High performance** (on some versions of Windows 11:
+   **Options**, then **High performance**, then **Save**).
+4. Start the game again.
+
+To check which card the game uses, open **Options › Video** in game (**Video Settings** in the Classic
+theme): the **Graphics card** line at the bottom names it. The F3 screen shows it too, on the right.
 
 ## What is in this repository
 

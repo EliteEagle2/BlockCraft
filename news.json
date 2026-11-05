@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "0.4.0",
+      "version": "0.4.0",
+      "title": "Blockcraft: Skywright 0.4.0, the World Update",
+      "subtitle": "Explore new biomes, deeper caves, wind and sky-storms, with a minimap and waypoints.",
+      "bullets": [
+        "21 biomes, taller mountains, rebuilt caves and deepslate",
+        "Weather, fire, wind, sky-storms and meteor craters",
+        "A minimap, map (M), waypoints (N) and the six Anchors"
+      ],
+      "date": "2026-11-05",
+      "tag": "Release",
+      "body": "The World Update is here. New worlds reach from y -64 to 320, with wide continents, deep oceans, rivers and tall mountains. Below y 0 lies deepslate, and the caves are rebuilt: big caverns, winding tunnels, narrow passages, ravines, underground lakes and lava deep down.\n\nExplore 17 familiar biomes and four rare Shattering biomes: Shardfall Barrens, Windscour Heights, Glimmerwood and Sunken Terraces. Find camps, ruined watchtowers and dungeon rooms with loot, and dozens of new blocks, from new woods and deepslate bricks to snow, ice, cactus and flowers. Leaves left without a tree now decay, never the ones you place.\n\nRain and snow fall, and lightning can start fires. Wind sways the leaves, drives the clouds and carries dropped items. Sky-storms are rarer and darker: you can't sleep through one, and their lightning turns exposed rock into glowing storm-touched stone, never inside your Hearth's claim. Find your way with the minimap and compass strip: press M for the map, N to add a waypoint and H to hide waypoints in the world.\n\nStory: the six Anchors stand sealed in the world, 1,500 to 3,000 blocks from spawn (/locate anchor finds the nearest, with cheats on). Skywright ruins dot the land, and meteor craters hold meteorite ore; its meteorite burns twice as long as coal.\n\nWorlds from 0.1.0 to 0.3.0 are backed up the first time they open in 0.4.0. They get the new underground below y 0, and the Anchors, ruins and craters appear in land you haven't explored; the new biomes and mountains are in new worlds. Leaves from before 0.4.0 never decay, and fire doesn't spread unless you use /gamerule doFireTick true. Don't play a 0.4.0 world in 0.3.0: if 0.3.0 warns you, choose Cancel or Back up and continue, never Continue anyway.\n\nSince the 26w45a snapshot:\n- Swaying vines and plants no longer clip into walls, and cactus no longer has holes\n- Smoother motion and less shimmer in the distance; Anti-aliasing and Graphics card in Options › Video\n- Strong wind pushes you a little: sneak or stand under a roof to stay put, or turn off Wind push in Options › Accessibility\n- In-world waypoint markers only show nearby (set the range in Options › Interface, 64 blocks by default); the compass strip shows the rest and names a waypoint when you look right at it\n- New sounds for each material, and chests, doors, trapdoors and fence gates open and close with their own sounds\n- Meteor craters start with an impact fire that burns down to embers, spreading only into flammable land\n- F3 hides the compass strip, minimap, markers and status effects, and shows the wind in words\n\nNext up: the Creatures Update (0.5.0), with original creatures, new weapons, stamina and dodge.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "26w45b",
       "version": "26w45b",
       "title": "26w45b: World Update fixes",
