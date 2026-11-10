@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "26w46a",
+      "version": "26w46a",
+      "title": "26w46a: the Creatures Update",
+      "subtitle": "Test the Creatures Update (0.5.0). Back up your worlds first.",
+      "bullets": [
+        "Mossbacks, Rootsnouts, Cloudfleece and Puffwings roam the land",
+        "Duskwalkers, Quillbacks, Cragcrawlers and Shardbursts hunt at night",
+        "Bow, shield, spear, war hammer, dagger and a new Combat HUD"
+      ],
+      "date": "2026-11-10",
+      "tag": "Snapshot",
+      "body": "The world has life. Four animals live in the grasslands and hills, and all of them give meat: the Mossback also gives milk and leather, the Puffwing feathers and eggs, and the Cloudfleece wool you can shear and dye. When night falls or in the dark, Duskwalkers, Quillbacks, Cragcrawlers and Shardbursts come out. Fight them with the new bow and arrows, spear, war hammer and dagger, and block with a shield in your offhand (F swaps hands). Creatures drop loot and XP, and spawn eggs are in the creative inventory. Creatures and weapons are silent for now; their sounds arrive in the next snapshot.\n\nNew worlds can turn on Stamina and dodge (Create World › Blockcraft Features): a stamina bar for sprinting and heavy attacks, and a dodge roll when you double-tap a movement key.\n\nYour old worlds: a 0.4.0 world is backed up when you first open it. Animals appear once in land you've already explored, and hostile creatures spawn in the dark, as in a new world. Peaceful removes them. Empty mob spawners in old worlds become Duskwalker spawners.\n\nStory: nothing new in the questline yet; the Anchor guardians come in a later snapshot.\n\nWhat to test: spend a night outside, fight each creature with each weapon, try the shield and dodge, and open a backed-up 0.4.0 world.\n\nKnown issues: the sword sweep looks blocky up close; the Anchor creature spawn eggs do nothing yet.\n\nBack up worlds before opening them in a snapshot. A 0.5.0 world opened in 0.4.0 warns you; its creatures are kept but don't appear there.\n\nReport bugs: https://github.com/EliteEagle2/BlockCraft/issues/new?template=snapshot-bug.yml",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "0.4.0",
       "version": "0.4.0",
       "title": "Blockcraft: Skywright 0.4.0, the World Update",
