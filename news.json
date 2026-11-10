@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "26w46b",
+      "version": "26w46b",
+      "title": "26w46b: Creatures Update sounds",
+      "subtitle": "Hear the creatures and try the new stamina bar. Back up your worlds first.",
+      "bullets": [
+        "Every creature, weapon, the bow and the shield now has sounds",
+        "A Shattered Sky stamina bar, offhand slot and charge indicator",
+        "Clearer Mossback and Duskwalker shapes"
+      ],
+      "date": "2026-11-10",
+      "tag": "Snapshot",
+      "body": "The creatures are no longer silent. Each one has its own calls, hurt and death sounds and footsteps, and swords, spears, war hammers, daggers, the bow, arrows and the shield all sound when you use them, with subtitles.\n\nThe Shattered Sky HUD gets its own stamina bar (gold, hidden when full), an offhand slot beside the hotbar and in the inventory, and a charge indicator for the spear and war hammer that flashes when the attack is ready. Options › Interface adds Stamina bar (Off, When not full, Always), Low stamina sound and Charge indicator.\n\nThe Mossback's head now joins its body with a thick neck, and the Duskwalker's long arms reach forward with pale knuckles that drag in front of its feet. Health bars past 8 blocks no longer grow as a creature walks away.\n\nStory: nothing new in the questline yet.\n\nWhat to test: listen to each creature by day and night, fight with each weapon and the shield, and turn the new HUD options on and off in both themes.\n\nKnown issues: the sword sweep looks blocky up close.\n\nBack up worlds before opening them in a snapshot. A 0.5.0 world opened in 0.4.0 warns you; its creatures are kept but don't appear there.\n\nReport bugs: https://github.com/EliteEagle2/BlockCraft/issues/new?template=snapshot-bug.yml",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "26w46a",
       "version": "26w46a",
       "title": "26w46a: the Creatures Update",
