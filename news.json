@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "26w46c",
+      "version": "26w46c",
+      "title": "26w46c: the Anchor guardians",
+      "subtitle": "Meet the six Anchor guardians and the Anchor Golem. Back up your worlds first.",
+      "bullets": [
+        "A guardian creature in each of the six Anchors",
+        "The Anchor Golem: a three-phase fight in its mountain arena",
+        "Storm-charged creatures, storm shards and the first meals"
+      ],
+      "date": "2026-11-11",
+      "tag": "Snapshot",
+      "body": "Each Anchor now has its guardian. The Sandwraith hides under the sand of the Sunken Observatory and bursts out when you come close. Vinecrawlers climb the Verdant Aqueduct and pull you in with a vine. The Hollowborn of the Rootvault can't see you: it hunts by sound, so move quietly. The Frostbound Scribes of the Frozen Archive stand frozen until something warm wakes them. Gale Harpies circle the top of the Windspire and swoop at you, harder with the wind behind them. Deepcoil Eels in the Drowned Anchor grab you and hold you under.\n\nThe Anchor Golem waits in a ruined arena on a high peak (/locate arena). Its fight has three phases: stone, wind and core. Watch for its warnings, strike the glowing joints, and climb the pillars when the core opens. It drops the Golem Heart.\n\nDuring a sky-storm, night creatures can be storm-charged: faster, harder-hitting and glowing teal. Lightning charges them too, and now hurts every creature it strikes. Storm-charged creatures drop storm shards.\n\nThe first meals: eat two foods within a minute to make Herder's Supper, Roadside Roast or Fowl Breakfast, for Well Fed. Mossback milk clears your effects, and beds can be crafted from Cloudfleece wool. The Mossback's neck now joins its head to its body.\n\nYour old worlds: the Golem's arena is placed only in land you haven't explored yet.\n\nStory: the Golem can be fought now with /bcdebug golem summon (cheats on); its real place in the questline comes in a later update. The guardians make the Anchors dangerous to explore, but they don't change the quest.\n\nWhat to test: visit each Anchor by night and by day, fight the Golem, wait out a sky-storm, and try the meals.\n\nKnown issues: the sword sweep looks blocky up close.\n\nBack up worlds before opening them in a snapshot. A 0.5.0 world opened in 0.4.0 warns you; its creatures are kept but don't appear there.\n\nReport bugs: https://github.com/EliteEagle2/BlockCraft/issues/new?template=snapshot-bug.yml",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "26w46b",
       "version": "26w46b",
       "title": "26w46b: Creatures Update sounds",
