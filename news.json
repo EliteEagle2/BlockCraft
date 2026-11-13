@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "26w46d",
+      "version": "26w46d",
+      "title": "26w46d: meteors and creature voices",
+      "subtitle": "Watch for meteors at night and hear the creatures' new voices. Back up your worlds first.",
+      "bullets": [
+        "Meteors fall on some nights and leave a burning crater",
+        "Every creature has a new voice, recorded and shaped for Blockcraft",
+        "New attack animations for the spear, dagger and war hammer"
+      ],
+      "date": "2026-11-13",
+      "tag": "Snapshot",
+      "body": "Look up at night: about one night in four, a meteor streaks across the sky and strikes the land somewhere near you, leaving a smoking crater and fire. Meteors only land on natural ground, never on anything you've built or inside a Hearth's claim. With cheats on, /meteor calls one down near you. Claim your base with a Hearth to keep meteors off it.\n\nEvery creature has a new voice, made from real recordings, and they now call at a calmer, Java-like pace: animals and night creatures speak every few seconds, not all at once, and their voices fade out past 16 blocks.\n\nThe spear thrusts, the dagger stabs and the war hammer comes down overhead, in first and third person.\n\nFixes: arrows now hit or bounce off creatures instead of hanging in the air, and the Golem's joints and core and the Deepcoil Eel, Vinecrawler and Gale Harpy are hit where they look. The six Anchor guardians appear in their Anchors by day too. The boss bar no longer runs under the minimap, health bars no longer draw over the compass, storm-charged names show only on the creature you look at, and Golem particles no longer cover the camera. The Frozen Archive no longer melts and floods by itself. Smoother autosaves and more night creatures near you at low simulation distance.\n\nStory: nothing new in the questline yet; the Golem is still fought with /bcdebug golem summon.\n\nWhat to test: spend a few nights outside and watch for meteors, listen to the creatures in pens by day and near spawners by night, fight with each weapon, and shoot the Golem and the guardians with the bow.\n\nKnown issues: the sword sweep looks blocky up close. The meteor rock is plain shaded stone for now.\n\nBack up worlds before opening them in a snapshot. A 0.5.0 world opened in 0.4.0 warns you; its creatures are kept but don't appear there.\n\nReport bugs: https://github.com/EliteEagle2/BlockCraft/issues/new?template=snapshot-bug.yml",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "26w46c",
       "version": "26w46c",
       "title": "26w46c: the Anchor guardians",
