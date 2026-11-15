@@ -34,8 +34,9 @@ popular block game, so you can bring your favourite textures.
 
 ## Where it is now
 
-Blockcraft is in **Alpha**. The latest version is **0.4.0, the World Update**: new biomes, taller mountains, rebuilt caves, wind and
-sky-storms, a minimap and waypoints, and the six Anchors. Next up is the **Creatures Update (0.5.0)**. It's being
+Blockcraft is in **Alpha**. The latest version is **0.5.0, the Creatures Update**: eight original creatures, a guardian in each
+Anchor, the Anchor Golem, bows, shields and new weapons, stamina and dodge, and falling meteors. Next up is a
+snapshot making the Sunken Observatory fully playable, then the **Harvest Update (0.6.0)**. It's being
 built in public updates; each one adds a piece of the plan:
 
 | Version | Update | What it adds |
