@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "id": "launcher-1.2.2",
+      "title": "Launcher 1.2.2: safer saves",
+      "date": "2026-11-16",
+      "tag": "Launcher",
+      "body": "Your profile and settings are now saved safely with a backup, and a damaged file is never replaced, so your Hearths stay yours. PLAY no longer waits behind downloads, a stuck download retries by itself, and a launcher update that fails to start is undone automatically. To get the uninstaller fixes as well, run the newest installer over your current install. Your worlds and settings are kept. Small text is clearer, with crisp titles at every Windows scaling.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "0.5.0",
       "version": "0.5.0",
       "title": "Blockcraft: Skywright 0.5.0, the Creatures Update",
