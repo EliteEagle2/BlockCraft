@@ -1,9 +1,16 @@
 {
   "latest": {
-    "release": "0.5.0",
+    "release": "0.5.1",
     "snapshot": "26w48b"
   },
   "versions": [
+    {
+      "id": "0.5.1",
+      "type": "release",
+      "releaseTime": "2026-11-22T19:16:31Z",
+      "url": "0.5.1/0.5.1.json",
+      "sha256": "9139dab666493681760fcb2534190740e4a9af53ff00cc53078ad18594edea06"
+    },
     {
       "id": "26w48b",
       "type": "snapshot",

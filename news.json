@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "0.5.1",
+      "version": "0.5.1",
+      "title": "Blockcraft: Skywright 0.5.1, the Texture Update",
+      "subtitle": "Every block, item, plant, particle and piece of gear redrawn by hand in Blockcraft's own style, with the old look one click away.",
+      "bullets": [
+        "Blocks, plants, water, lava, fire and the sky redrawn on one shared palette",
+        "Every tool, weapon and armour piece redrawn, with matching worn armour",
+        "\"Original textures\" brings back the look from before 0.5.1"
+      ],
+      "date": "2026-11-22",
+      "tag": "Release",
+      "body": "0.5.1 gives Blockcraft its own look. Every block, plant, item, particle and piece of gear is redrawn by hand on one shared palette, with Skywright teal kept for the sky-storm and the Anchors. Big walls and floors no longer repeat in a grid, and each kind of gear has one clear shape.\n\nThe bow is held as in Java Edition in first person, and a full draw stays on the screen. Land below the horizon fades into the sky, and creatures, particles, weather and clouds fade with it. At night, water darkens with the sky, like the land. Wind gusts are thin streaks that take the light around them, fewer in the rain.\n\nNew sun, moon, clouds, rain and snow, and retuned grass and leaf colours. Sky-storm rain falls in teal and violet. Lava has a dark crust with bright cracks; snow is flat white. Meteor rock glows at night, and a fresh crater glows for about 90 seconds as it cools. In land you haven't seen since before 26w48a, craters are remade in the new style; a few are gone. Craters in land you've seen stay.\n\nPrefer the old look? \"Original textures\" in Options > Resource Packs brings back 0.5.0's look; switch any time. Resource packs work as before. Explored places keep their old map colours until you visit them again.\n\nWorlds now keep all the land you have seen, so later updates won't change it; worlds grow a little on disk. Short grass grows in patches again in newly explored land.\n\nAlso: /time set with 24000 or more sets the day too, as in Java Edition. Smoke is soft grey, never black squares. The world list opens at once and fills in. Make Backup and Duplicate show progress, can be cancelled, and keep the world closed until done.\n\nScreens open without a hitch, and switching packs never leaves old textures behind. You can replace or delete a pack while the game runs, and a broken pack description no longer crashes the Resource Packs screen.\n\nSmall text reads better: 0, 1, 2, 4, Z, B and G are redrawn to look less alike, text is clearer at small GUI scales, and combat numbers fade out instead of shrinking to dots. The sword's sweep is drawn in finer detail. What's new fits the window and scrolls. Classic's Select World title is no longer cut off at 1280x720.\n\nCreate New World puts the World Name first on the Game tab. In Shattered Sky, Difficulty is the first row of Options > Video, shown only while a world is open. \"Burns for...\" shows only in a furnace or with Shift held. Plus small menu fixes in both themes: stack counts, armour icons, the Classic slider, popup titles, tooltips, the splash text, labels and buttons.\n\nKnown issues: the Duskwalker and Sandwraith attacks are silent; the Hollowborn, Deepcoil Eel and Anchor Golem get their new look later; flowing water and lava repeat smaller than still. A world opened in 0.1.0 after a newer version can show cliffs and water walls where old land meets new; a later update repairs these worlds.\n\nNext up: 0.5.2, the Performance patch.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "26w48b",
       "version": "26w48b",
       "title": "26w48b: plants, gear, particles and the sky",
