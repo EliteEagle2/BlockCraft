@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "26w48b",
+      "version": "26w48b",
+      "title": "26w48b: plants, gear, particles and the sky",
+      "subtitle": "The second half of the Texture Update: plants, water and lava, fire, every item, particles, new tools, weapons and armour, and a new sky.",
+      "bullets": [
+        "Plants, water, lava, fire, the Hearth and the Anchors redrawn",
+        "Every tool, weapon and armour piece redrawn, with matching worn armour",
+        "New sun, moon, clouds, rain and snow, and grass and leaf colours retuned for every biome"
+      ],
+      "date": "2026-11-22",
+      "tag": "Snapshot",
+      "body": "The rest of the Texture Update. Plants (with finer grass blades), water, lava and fire with new animations, the Hearth, the Anchors and the Skywright tablets are redrawn, and chests, beds and signs match.\n\nEvery tool, weapon and armour piece is redrawn for every material, with matching worn armour, and the other items follow the same palette.\n\nParticles are drawn at full detail, with grey smoke and round explosions. New sun, moon, clouds, rain and snow, retuned grass and leaf colours, and a sky-storm's rain falls in teal and violet. Meteors have cracked rock that glows at night, and their craters glow as they cool.\n\n/time set with 24000 or more now sets the day too, as in Java Edition.\n\nBack up your worlds first. Bugs: github.com/EliteEagle2/BlockCraft/issues",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "26w48a",
       "version": "26w48a",
       "title": "26w48a: new ground under your feet",
