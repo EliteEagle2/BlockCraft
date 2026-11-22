@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "26w48a",
+      "version": "26w48a",
+      "title": "26w48a: new ground under your feet",
+      "subtitle": "The first half of the Texture Update: terrain, ores, wood and building blocks are redrawn. The old look is one click away.",
+      "bullets": [
+        "Terrain, ores, wood and building blocks redrawn in Blockcraft's own \"twilight earth\" style",
+        "Blocks turn per block so big walls and floors no longer repeat in a grid",
+        "\"Original textures\" in Resource Packs brings back the look from before 0.5.1"
+      ],
+      "date": "2026-11-22",
+      "tag": "Snapshot",
+      "body": "The Texture Update starts here. Terrain, ores, the six woods (Glimmerwood keeps its pale look with new sage leaves) and the building blocks are redrawn by hand on one shared palette. Ingots read as metal, gems have a single bright glint, and storm-touched stone has thin teal veins.\n\nShort grass grows in patches again in newly explored land, and your worlds now keep all the land you've seen, so it stays as you saw it (worlds get a little bigger on disk).\n\nFixed: thin gaps at block edges, and pale bands where distant land meets the sky.\n\nBack up your worlds first. Bugs: github.com/EliteEagle2/BlockCraft/issues",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "launcher-1.2.2",
       "title": "Launcher 1.2.2: safer saves",
       "date": "2026-11-16",
