@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "0.5.2",
+      "version": "0.5.2",
+      "title": "Blockcraft: Skywright 0.5.2, the Performance patch",
+      "subtitle": "Smoother play at high render distances, old worlds repaired, and an Anchor Golem that roams its peaks.",
+      "bullets": [
+        "Smoother play at high render distances",
+        "Worlds opened in 0.1.0 after a newer version are repaired: no more cliffs and water walls where old land meets new",
+        "Fixes from the 0.5.0 playtest: the left hand, the Skyshard marker and Create New World"
+      ],
+      "date": "2026-11-23",
+      "tag": "Release",
+      "body": "Long views run smoother: the game does much less work to draw faraway land.\n\nOld worlds: a world that was opened in 0.1.0 after being played in a newer version is repaired the first time you open it. Its new land is made by one generator again, and land next to your saved chunks blends into it, with no sheer cliffs or water walls. Before the repair the progress screen tells you: \"This world was opened in 0.1.0 after a newer version. It will be backed up before it's repaired.\" The backup runs behind that screen, and the land you changed is never touched. Places where two older saves meet may keep a step. Where an old saved chunk stands much higher or lower than the saved land right beside it, a sheer wall can remain at its edge. Nothing you built is changed. New land around your saved land may look different from the last time you visited, because it is now made by one generator.\n\nThe Anchor Golem no longer waits in its arena. Once awake, it roams the high peaks around it and leaps back into the arena when a fight starts, so the fight always uses the pillars. It starts the fight when it sees you within 24 blocks, when you step into its arena, or when you hit it. Out of a fight it roams again, without healing.\n\nThe title screen reads your worlds in the background, so it opens at once. Create New World now walks you through each tab; once you've seen them all, you can create from any tab.\n\nItems in your left hand are no longer drawn mirrored, as in Java Edition. Tools and weapons keep their own left-hand pose. The compass shows a Skyshard marker whole, cut only at the ends of the strip. Your own arrows no longer flash across the screen as you shoot.\n\nKnown issues: the Duskwalker and Sandwraith attacks are silent; the Hollowborn, Deepcoil Eel and Anchor Golem get their new look later; flowing water and lava repeat smaller than still.\n\nNext up: 0.5.3, the Radiance Update, with glow, light shafts and better water.",
+      "image": null,
+      "url": null
+    },
+    {
       "id": "0.5.1",
       "version": "0.5.1",
       "title": "Blockcraft: Skywright 0.5.1, the Texture Update",
